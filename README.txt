@@ -1,6 +1,3 @@
-PAYROLL PROCESSING APPLICATION PROJECT
-Joshua Shapiro
-
 SUMMARY
 ---------------------------------------------------------------------------------------------------
 I built this payroll command line application for my Object Oriented Programming final project.
